@@ -1,0 +1,1 @@
+Este es un proyecto de e-commerce desarrollado con React.js para ofrecer productos de indumentaria, como remeras, pantalones, camperas y zapatillas. Los usuarios pueden navegar por las categorías de productos, agregar artículos al carrito, y proceder a realizar una compra a través de un proceso de checkout.
