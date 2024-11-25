@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/finalreactjs/static/css/main.80cc82e3.css",
+    "main.js": "/finalreactjs/static/js/main.af327fc0.js",
+    "static/js/453.e9cc785f.chunk.js": "/finalreactjs/static/js/453.e9cc785f.chunk.js",
+    "static/media/pantalon.jpg": "/finalreactjs/static/media/pantalon.75f48a52a700b04fc234.jpg",
+    "static/media/zapatillas.jpg": "/finalreactjs/static/media/zapatillas.9b8c6a13e149646c6265.jpg",
+    "static/media/remera.jpg": "/finalreactjs/static/media/remera.5182d0dfbebcbdfd3912.jpg",
+    "static/media/campera.jpg": "/finalreactjs/static/media/campera.6ad34f62f4dec5bdba45.jpg",
+    "index.html": "/finalreactjs/index.html",
+    "main.80cc82e3.css.map": "/finalreactjs/static/css/main.80cc82e3.css.map",
+    "main.af327fc0.js.map": "/finalreactjs/static/js/main.af327fc0.js.map",
+    "453.e9cc785f.chunk.js.map": "/finalreactjs/static/js/453.e9cc785f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80cc82e3.css",
+    "static/js/main.af327fc0.js"
+  ]
+}
