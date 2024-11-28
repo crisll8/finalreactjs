@@ -18,19 +18,14 @@ function App() {
       <Router>
         <NavBar />
         <Routes>
-          {/* Rutas principales */}
           <Route path="/" element={<Login />} />
-          <Route
-            path="/category/:category"
-            element={<ItemListContainer greeting="Descubre nuestra colección" />}
-          />
+          <Route path="/category/:category" element={<ItemListContainer greeting="Descubre nuestra colección" />} />
           <Route path="/product/:id" element={<ItemDetail />} />
-          <Route path="/checkout" element={<Checkout />} /> {/* Ruta para Checkout */}
+          <Route path="/checkout" element={<Checkout />} />
         </Routes>
         <CartWidget setModalOpen={setIsModalOpen} />
         <CartModal isOpen={isModalOpen} setModalOpen={setIsModalOpen} />
 
-        {/* Título agregado */}
         <div className="welcome-banner">
           <h1>¡Bienvenido a mi aplicación de e-commerce!</h1>
           <p>Contamos con la mejor calidad y precios del mercado.</p>

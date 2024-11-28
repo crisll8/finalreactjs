@@ -14,4 +14,13 @@
     font-size: 1rem;
     color: #666;
   }
+  .feedback-message {
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .item-detail p {
+    margin: 5px 0;
+  }
   
